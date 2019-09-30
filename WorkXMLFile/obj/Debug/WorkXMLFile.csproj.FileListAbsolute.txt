@@ -1,0 +1,7 @@
+C:\Git\Github\WorkXMLFile\WorkXMLFile\bin\Debug\WorkXMLFile.exe.config
+C:\Git\Github\WorkXMLFile\WorkXMLFile\bin\Debug\WorkXMLFile.exe
+C:\Git\Github\WorkXMLFile\WorkXMLFile\bin\Debug\WorkXMLFile.pdb
+C:\Git\Github\WorkXMLFile\WorkXMLFile\obj\Debug\WorkXMLFile.csprojAssemblyReference.cache
+C:\Git\Github\WorkXMLFile\WorkXMLFile\obj\Debug\WorkXMLFile.csproj.CoreCompileInputs.cache
+C:\Git\Github\WorkXMLFile\WorkXMLFile\obj\Debug\WorkXMLFile.exe
+C:\Git\Github\WorkXMLFile\WorkXMLFile\obj\Debug\WorkXMLFile.pdb
